@@ -29,7 +29,6 @@ news_data2 <- data.frame(
   Date = dates,
   Link = links,
   stringsAsFactors = FALSE)
-View(news_data2)
 
 # MONGODB
 message('Input Data to MongoDB Atlas')

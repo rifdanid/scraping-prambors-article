@@ -62,7 +62,7 @@ And click [this Rpubs](https://rpubs.com/rifdanlabibah/ScrapingPramborsArticle) 
 ## :man_technologist: Developers
 <table>
   <tr>
-    <td align="center"><a href="https://github.com/rifdanid"><img src="image/Developer Pics.jpg" width="115px;" alt=""/><br /><sub><b>Rifda Nida'ul Labibah </b></sub></a><br /><a
+    <td align="center"><a href="https://github.com/rifdanid"><img src="Developer Pics.jpg" width="115px;" alt=""/><br /><sub><b>Rifda Nida'ul Labibah </b></sub></a><br /><a
 <br /><sub><b>G1501231061 </b></sub></a>
   </tr>
 </table>

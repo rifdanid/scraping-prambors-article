@@ -53,9 +53,12 @@ This is an one of a document stored in MongoDB as a result of scraping the Pramb
 }
 ```
 ## :microphone: Presentation
-Click here to access the PowerPoint presentation. This presentation provides a detailed overview of the data analysis process, data visualizations, and the conclusions drawn from the PramborsFM Website Scraping Project. It covers the methodologies used, insights gained, and key takeaways from our comprehensive analysis.
+Click  to access the PowerPoint presentation. This presentation provides a detailed overview of the data analysis process, data visualizations, and the conclusions drawn from the PramborsFM Website Scraping Project. It covers the methodologies used, insights gained, and key takeaways from our comprehensive analysis.
+
+And click [this Rpubs](https://rpubs.com/rifdanlabibah/ScrapingPramborsArticle) to access the comprehensive report on RPubs. This link provides full access to the entire code and output of the analysis, offering a detailed overview of the data analysis process, visualizations drawn from the PramborsFM Website Scraping Project. By reviewing this report, you can gain a deeper understanding of the techniques and results from our study.
 
 ## :man_technologist: Developers
+
 ## :camera_flash: Media Gallery
 
 

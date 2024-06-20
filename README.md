@@ -29,6 +29,8 @@
 
 The **PramborsFM Website Scraping Project** aims to gather data from the PramborsFM website through automated web scraping techniques. The scraped data will be stored in MongoDB, a NoSQL database, to efficiently manage and query large volumes of data. Various analyses and visualizations will be performed using R, a powerful language and environment for statistical computing and graphics. By using web scraping to collect data, MongoDB to store it, and R to analyze and visualize it, this project seeks to provide valuable insights into the latest music trends and news featured on PramborsFM.
 
+The main challenges undertaken in this project include identifying the Top 10 Most Frequent Words, creating wordclouds, analyzing bigrams and trigrams, and tracking news trends by date. These analyses will help uncover patterns and insights from the text data, providing a comprehensive understanding of the content featured on PramborsFM.
+
 ## :scroll: About PramborsFM
 
 **PramborsFM** is Indonesia's premier hit music station, renowned for delivering the latest and hottest music trends to its listeners. With a legacy spanning decades, PramborsFM has established itself as a cultural icon and a trendsetter in the Indonesian music industry.
@@ -58,8 +60,12 @@ Click  to access the PowerPoint presentation. This presentation provides a detai
 And click [this Rpubs](https://rpubs.com/rifdanlabibah/ScrapingPramborsArticle) to access the comprehensive report on RPubs. This link provides full access to the entire code and output of the analysis, offering a detailed overview of the data analysis process, visualizations drawn from the PramborsFM Website Scraping Project. By reviewing this report, you can gain a deeper understanding of the techniques and results from our study.
 
 ## :man_technologist: Developers
-
-## :camera_flash: Media Gallery
+<table>
+  <tr>
+    <td align="center"><a href="https://github.com/rifdanid"><img src="image/Developer Pics.jpg" width="250px;" alt=""/><br /><sub><b>Rifda Nida'ul Labibah </b></sub></a><br /><a
+<br /><sub><b>G1501231029 </b></sub></a>
+  </tr>
+</table>
 
 
 

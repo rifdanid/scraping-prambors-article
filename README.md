@@ -20,8 +20,6 @@
 [:microphone: Presentation](#microphone-presentation)
 •
 [:man_technologist: Developers](#man_technologist-developers)
-•
-[:camera_flash: Media Gallery](#camera_flash-media-gallery)
 </div>
 
 
